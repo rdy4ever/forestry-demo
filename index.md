@@ -35,3 +35,4 @@ menu:
     weight: 1
 
 ---
+Some content
