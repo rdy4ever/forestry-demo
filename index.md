@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
+banner_image: "/uploads/2018/02/25/car.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: This is a test
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
