@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Test 0106
+  description: Acesta este un test nou
+  icon: "/uploads/2017/11/13/health.png"
 - heading: Something else
   description: This description
   icon: "/uploads/2017/11/13/health.png"
