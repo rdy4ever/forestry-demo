@@ -8,9 +8,6 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- heading: Test 0106
-  description: Acesta este un test nou
-  icon: "/uploads/2017/11/13/health.png"
 - heading: Something else
   description: This description
   icon: "/uploads/2017/11/13/health.png"
@@ -21,6 +18,9 @@ services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
+  icon: "/uploads/2017/11/13/health.png"
+- heading: Test 0106
+  description: Acesta este un test nou
   icon: "/uploads/2017/11/13/health.png"
 sub_heading: Engineering and Health Sciences
 textline: |
