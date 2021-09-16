@@ -10,12 +10,13 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  footer:
-    identifier: _about
-    weight: 1
   navigation:
     identifier: _about
     weight: 2
+    title: About us
+  footer:
+    identifier: _about
+    weight: 1
 
 ---
 Horia test.
